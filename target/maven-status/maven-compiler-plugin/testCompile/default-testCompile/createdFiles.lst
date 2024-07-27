@@ -1,0 +1,5 @@
+com\Flipkart\Testcases\TC_Addtocart.class
+com\pagesobjects\Addtocart.class
+com\utilityfiles\ConfigFileReader.class
+com\BaseClass\Actionclass.class
+com\BaseClass\Baseclass.class
